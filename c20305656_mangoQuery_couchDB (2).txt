@@ -1,0 +1,14 @@
+
+{
+   "selector": {
+      "edition_year": 2020,
+      "vote_mode": "Instagram"
+   },
+   "fields": [
+      "vote",
+      "viewer_sk"
+   ]
+}
+
+
+comment: this selects the votes and the viewersk of votes that were cast in 2020 and used Instagram as their method to vote. 
